@@ -1,0 +1,3 @@
+core = "9.x"
+description = "Autocomplete module that autocompletes boardgame search strings"
+name = "Auto Complete"
